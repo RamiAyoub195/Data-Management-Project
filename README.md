@@ -8,13 +8,13 @@ Python Python 3.11.1
 
 # Contributers
 
-- Rami Ayoub (ramiayoub@cmail.carleton.ca)
+- Rami Ayoub 
 
-- Adam Rickert (adamrickert@cmail.carleton.ca)
+- Adam Rickert 
 
-- Declan Foshaug (declanfoshaug@cmail.carleton.ca)
+- Declan Foshaug 
 
-- Mazhar Kutukcu (mazharkutukcu@cmail.carleton.ca)
+- Mazhar Kutukcu 
 
 ---
 
